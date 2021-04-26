@@ -909,12 +909,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x6c0aA02CfcB86D15067D188c2aD7D315ff9199f9",
-      "transactionHash": "0xf6eaa74ae6307dfce45ae903c18be164ee91efeadaf717f72ca0fdbd19a57753"
+      "address": "0xd16E2e3783f59474907bcDDA1D1bF01F6995fa8e",
+      "transactionHash": "0xd3d4ab35ccb9a503f05f700c5915f1cdfcf6bacea6b907a79d33c79898c7515a"
     }
   },
   "schemaVersion": "3.4.0",
-  "updatedAt": "2021-04-26T03:43:42.672Z",
+  "updatedAt": "2021-04-26T04:29:15.906Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
